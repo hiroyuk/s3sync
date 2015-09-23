@@ -1,0 +1,18 @@
+{
+    "account": {
+        "key": "XXXXXXXXXXXXXXXXX",
+        "secret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "syncPair":[
+        {
+            "local":"/home/foo/movie",
+            "remote":"/",
+            "bucket":"bucket1"
+        },
+        {
+            "local":"/home/foo/music",
+            "remote":"/",
+            "bucket":"bucket2"
+        }
+    ]
+}
